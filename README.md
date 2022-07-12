@@ -30,16 +30,16 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
 - 🌱 I’m currently learning MobDev with flutter, and Game Programming with C# on Unity.
 - 👯 I’m looking to collaborate on all of you
 - 📫 How to reach me: muhamadfaisal280201@gmail.com
-- ⚡ Fun fact: I'm a student
+- ⚡ Fun fact: I'm a student and graduate of "Studi Independen" (**kampus merdeka**) at Agate Academy. <a href="https://drive.google.com/file/d/1w_t64giYXJT907AA2THHtDqxQNgWxgK5/view?usp=sharing"> my certificate </a>
 
 ### GameDev:
 *My first release game on github:*
-        <figure>
-          <a target="_blank" href="https://github.com/Icankkkk/Driforte.git">
-          <img src="source/Driforte.png" alt="Driforte Game" width="400">
-          <figcaption></figcaption>
-        </figure>
-  
+		<figure>
+		  <a target="_blank" href="https://github.com/Icankkkk/Driforte.git">
+		  <img src="source/Driforte.png" alt="Driforte Game" width="600">
+		  <figcaption></figcaption>
+		</figure>
+		
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
@@ -53,9 +53,6 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=FFFFFF)&nbsp;
   
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/2201fkns3ylgloaobs4nvn1kh)
     
 ### Github Statistic
 <p align="left">
