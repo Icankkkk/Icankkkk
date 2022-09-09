@@ -30,15 +30,17 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
 - 🌱 I’m currently learning MobDev with flutter, and Game Programming with C# on Unity.
 - 👯 I’m looking to collaborate on all of you
 - 📫 How to reach me: muhamadfaisal280201@gmail.com
-- ⚡ Fun fact: I'm a student and graduate of "Studi Independen" (**kampus merdeka**) at Agate Academy. <a href="https://drive.google.com/file/d/1w_t64giYXJT907AA2THHtDqxQNgWxgK5/view?usp=sharing"> my certificate </a>
 
 ### GameDev:
-*My first release game on github:*
-		<figure>
-		  <a target="_blank" href="https://github.com/Icankkkk/Driforte.git">
-		  <img src="source/Driforte.png" alt="Driforte Game" width="600">
-		  <figcaption></figcaption>
-		</figure>
+
+<p align="center">
+	<a href="https://github.com/Icankkkk/Driforte.git">
+		<img src="source/Driforte.png" alt="Driforte Game" width="600">
+	</a>
+	<a href="https://github.com/Icankkkk/Paint-Astic.git">
+		<img src="source/PaintAstic.png" alt="Paint-Astic Game" width="400">
+	</a>
+</p>
 		
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -70,5 +72,8 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
 	</a>
     <a href="https://github.com/Icankkkk/Survival-Shooter.git">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Icankkkk&repo=Survival-Shooter&hide_border=true&theme=algolia&show_icons=true" />
+	</a>
+	 <a href="https://github.com/Icankkkk/Paint-Astic.git">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Icankkkk&repo=Paint-Astic&hide_border=true&theme=algolia&show_icons=true" />
 	</a>
 </p>
