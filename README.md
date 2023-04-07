@@ -35,13 +35,26 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
 
 <p align="center">
 	<a href="https://github.com/Icankkkk/Driforte.git">
-		<img src="source/Driforte.png" alt="Driforte Game" width="600">
+		<img src="source/Driforte.png" alt="Driforte Game" >
 	</a>
 	<a href="https://github.com/Icankkkk/Paint-Astic.git">
-		<img src="source/PaintAstic.png" alt="Paint-Astic Game" width="400">
+		<img src="source/PaintAstic.png" alt="Paint-Astic Game" width="800">
 	</a>
 </p>
-		
+
+<hr></hr>
+
+### MobileDev
+
+<p align="center">
+	<a href="https://github.com/Icankkkk/flutter_simple_login.git">
+		<img src="source/simpleLogin.png" alt="Simple Login" >
+	</a>
+	<a href="https://github.com/Icankkkk/flutter_sevendays.git">
+		<img src="source/slicing_ui.png" alt="Slicing UI Design" >
+	</a>
+</p>
+
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
