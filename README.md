@@ -47,11 +47,19 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
 ### MobileDev
 
 <p align="center">
+	Simple Login - Firebase
 	<a href="https://github.com/Icankkkk/flutter_simple_login.git">
 		<img src="source/simpleLogin.png" alt="Simple Login" >
 	</a>
+	<hr></hr>
+ 	Slicing UI Design
 	<a href="https://github.com/Icankkkk/flutter_sevendays.git">
 		<img src="source/slicing_ui.png" alt="Slicing UI Design" >
+	</a>
+ 	<hr></hr>
+  	Money Recording
+	<a href="https://github.com/Icankkkk/pencatatan_keuangan.git">
+		<img src="source/money_recording.png" alt="Money Recording" >
 	</a>
 </p>
 
@@ -60,6 +68,7 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp&logoColor=239120)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=199ED9)&nbsp;
+![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java&logoColor=199ED9)&nbsp;
 
 ### Tools / Tech
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -77,16 +86,4 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
     </a>
 </p>
 
-## Pinned Repositories
 
-<p align="left">
-	<a href="https://github.com/Icankkkk/Driforte.git">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Icankkkk&repo=Driforte&hide_border=true&theme=algolia&show_icons=true" />
-	</a>
-    <a href="https://github.com/Icankkkk/Survival-Shooter.git">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Icankkkk&repo=Survival-Shooter&hide_border=true&theme=algolia&show_icons=true" />
-	</a>
-	 <a href="https://github.com/Icankkkk/Paint-Astic.git">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Icankkkk&repo=Paint-Astic&hide_border=true&theme=algolia&show_icons=true" />
-	</a>
-</p>
