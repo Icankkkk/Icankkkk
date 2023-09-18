@@ -55,6 +55,12 @@ I am Faisal who has the desire to work as a mobile developer and game developer.
  	Slicing UI Design
 	<a href="https://github.com/Icankkkk/flutter_sevendays.git">
 		<img src="source/slicing_ui.png" alt="Slicing UI Design" >
+  	</a>
+ 	<hr></hr>
+  	Money Recording
+	<a href="https://github.com/Icankkkk/pencatatan_keuangan.git">
+		<img src="source/money_recording.png" alt="Money Recording" >
+	</a>
 	
 </p>
 
