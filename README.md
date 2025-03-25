@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="source/header.gif">
-</p>
-
-<p align="center">
 	<a href="https://www.linkedin.com/in/muhamad-faisal-0b1687232/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
@@ -25,11 +21,17 @@
 
 ### Hi 👋
 
-I am Faisal who has the desire to work as a mobile developer and game developer. I love to learn a new technology, and it keeps me curious about the future.
+I am Faisal who has the desire to work as a Software Developer. I love to learn a new technology, and it keeps me curious about the future.
 
-- 🌱 I’m currently learning MobDev with flutter, and Game Programming with C# on Unity.
+- 🌱 I’m currently become a freelancer Wordpress Developer, and create MobDev with flutter
 - 👯 I’m looking to collaborate on all of you
 - 📫 How to reach me: muhamadfaisal280201@gmail.com
+
+### Website:
+<a href="https://plasticdiet.id/">Dietplastic Indonesia </a>
+<a href="https://lintasdata.id/">Lintasdata</a>
+<a href="https://lintasdata.id/">Pilahpilih</a>
+<a href=https://javaproduct.com/>Java Product</a>
 
 ### GameDev:
 
