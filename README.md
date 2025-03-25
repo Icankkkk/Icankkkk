@@ -50,23 +50,14 @@ I am Faisal who has the desire to work as a Software Developer. I love to learn 
 
 ### MobileDev
 
-<p align="center">
-	Simple Login - Firebase
-	<a href="https://github.com/Icankkkk/flutter_simple_login.git">
-		<img src="source/simpleLogin.png" alt="Simple Login" >
-	</a>
-	<hr></hr>
- 	Slicing UI Design
-	<a href="https://github.com/Icankkkk/flutter_sevendays.git">
-		<img src="source/slicing_ui.png" alt="Slicing UI Design" >
-  	</a>
- 	<hr></hr>
-  	Money Recording
-	<a href="https://github.com/Icankkkk/pencatatan_keuangan.git">
-		<img src="source/money_recording.png" alt="Money Recording" >
-	</a>
-	
-</p>
+- [Simple Login - Firebase](https://github.com/Icankkkk/flutter_simple_login.git)
+  ![Simple Login](source/simpleLogin.png)
+
+- [Slicing UI Design](https://github.com/Icankkkk/flutter_sevendays.git)
+  ![Slicing UI Design](source/slicing_ui.png)
+
+- [Money Recording](https://github.com/Icankkkk/pencatatan_keuangan.git)
+  ![Money Recording](source/money_recording.png)
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
