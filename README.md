@@ -28,10 +28,12 @@ I am Faisal who has the desire to work as a Software Developer. I love to learn 
 - 📫 How to reach me: muhamadfaisal280201@gmail.com
 
 ### Website:
-<a href="https://plasticdiet.id/">Dietplastic Indonesia </a>
-<a href="https://lintasdata.id/">Lintasdata</a>
-<a href="https://lintasdata.id/">Pilahpilih</a>
-<a href=https://javaproduct.com/>Java Product</a>
+<ul>
+	<li><a href="https://plasticdiet.id/">Dietplastic Indonesia </a></li>
+	<li><a href="https://lintasdata.id/">Lintasdata</a></li>
+	<li><a href=https://pilahpilih.id/>Pilahpilih</a></li>
+	<li><a href=https://javaproduct.com/>Java Product</a></li>
+</ul>
 
 ### GameDev:
 
