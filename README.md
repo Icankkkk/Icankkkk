@@ -49,7 +49,9 @@ I am Faisal who has the desire to work as a Software Developer. I love to learn 
 <hr></hr>
 
 ### MobileDev
-
+- [Aplikasi Forum Diskusi](https://github.com/Icankkkk/skripsi.git)
+  ![Simple Login](source/ss.png)
+  
 - [Simple Login - Firebase](https://github.com/Icankkkk/flutter_simple_login.git)
   ![Simple Login](source/simpleLogin.png)
 
